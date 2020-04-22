@@ -1,1 +1,1 @@
-# The-general-game-of-Rock-Paper-Scissors-
+# The general game of Rock Paper Scissors 
